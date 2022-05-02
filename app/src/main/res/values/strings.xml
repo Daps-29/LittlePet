@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Little Pet</string>
+    <string name="facebook_app_id">445240413854401</string>
+    <string name="fb_login_protocol_scheme">fb445240413854401</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    //Headings
+    <string name="heading_one">Quick &amp; Easy Payments</string>
+    <string name="heading_two">Instant Notifications</string>
+    <string name="heading_three">Cashless Payment</string>
+    <string name="heading_fourth">Pay Anywhere</string>
+    //ubicacion
+    <string name="latitud_usuario">latitud_usuario</string>
+    <string name="longitud_usuario">longitud_usuario</string>
+    <string name="alias_direccion">alias_direccion</string>
+    <string name="direccion_literal">direccion_literal</string>
+
+    //Description
+    <string name="desc_one">Grow your Business By Accepting Card Payments with The New Card Reader</string>
+    <string name="desc_two">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_three">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="desc_fourth">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="title_activity_ubicacion">UbicacionActivity</string>
+</resources>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/about_us_fragment.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_cambiarmascota.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_categorias.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_editar_usuario.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_informacion1.xml" value="0.25" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_informacion2.xml" value="0.25" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_informacion3.xml" value="0.25" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_introductory.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_login.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_logros.xml" value="0.1" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_maps.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_mascota_detalle.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_mascota_nueva.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_mascotas.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_organizaciones.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_registro.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_reset_password.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_todas_mascotas.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_ubicacion.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/activity_ver_organizacion.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/alert.xml" value="0.25" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/card_adoptados.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/card_categoria.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/card_encontrados.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/card_lista_inicial.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/card_mascota.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/card_organizaciones.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/dashboard_fragment.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/dialog.xml" value="0.25" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/dialogeliminar.xml" value="0.17" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/drawer_menu.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/fragment_adoptados.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/fragment_dashboard.xml" value="0.17" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/fragment_encontrados.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/fragment_logros.xml" value="0.33" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/fragment_mis_mascotas.xml" value="0.25" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/fragment_my_profile.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/fragment_organizaciones.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/item_option.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/login_tab_fragment.xml" value="0.10739614994934144" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/progresdialog.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/settings_fragment.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/signup_tab_fragment.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/slider_item.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/layout/verificar_internet.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dpint/Documents/Android/LittlePet/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12604166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

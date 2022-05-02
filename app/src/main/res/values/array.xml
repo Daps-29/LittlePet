@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="id_activityScreenTitles">
+        <item></item>
+        <item>Inicio</item>
+        <item>Mi Perfil</item>
+        <item>Organizaciones</item>
+        <item>Mis Mascotas</item>
+        <item>Logros</item>
+        <item/>
+        <item>Cerrar Sesión</item>
+    </string-array>
+    <string-array name="li">
+
+        <item></item>
+        <item>Little Daffy</item>
+    </string-array>
+
+    <array name="id_activityScreenIcons">
+
+        <item>@drawable/close_icon</item>
+        <item>@drawable/home_icon</item>
+        <item>@drawable/my_profile_icon</item>
+        <item>@drawable/nearby_res_icon</item>
+        <item>@drawable/ic_baseline_pets_24</item>
+        <item>@drawable/about_icon</item>
+        <item>0</item>
+        <item>@drawable/logout_icon</item>
+
+    </array>
+
+</resources>
